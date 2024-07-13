@@ -4,7 +4,7 @@
 .hamburger {
     display: none; /* Hide by default on desktop */
     cursor: pointer;
-    padding: 15px;
+    padding: 6px;
     background-color: #BAA370;
     color: #fff;
     position: fixed;
@@ -31,6 +31,7 @@
     width: 250px;
     background-color: #BF8B70;
     color: #fff;
+    border: 3px solid #C9B079;
     transition: left 0.3s ease;
     z-index: 999;
 }
@@ -127,11 +128,11 @@
 
 /* Media Query for Mobile */
 /* @media only screen and (max-width: 768px) { */
-    @media only screen  and (max-width: 1024px) and (min-width: 100px) {
+    @media only screen  and (max-width: 1200px) and (min-width: 100px) {
     .hamburger {
         display: block; /* Show hamburger icon on mobile */
         position: absolute;
-        top: 110px;
+        top: 102px;
         z-index: 1;
     }
     .home-page-design .column-9 {
@@ -334,6 +335,7 @@
 
     .home-page-design .column {
         width: 100%;
+        margin-top: 20px;
     }
 
     .home-page-design .card-1,.home-page-design .card-2 {
@@ -343,6 +345,38 @@
 
     .home-page-design .content-1,.home-page-design .content-2 {
         margin: 40px 0px 44px 44px;
+    }
+
+    .home-page-design .button-4 {
+        margin-top: 10px;
+    }
+
+    .home-page-design .form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .home-page-design .card-1,.home-page-design .card-2 {
+        padding-right: 5px;
+    }
+
+    .home-page-design .image-1 {
+        width: 100%;
+    }
+
+    .home-page-design .image-2 {
+        border-radius: 30px;
+        background: unset;
+        position: relative;
+        margin-right: unset;
+        display: flex;
+        width: 100%;
+        height: 368px;
+        box-sizing: border-box;
+    }
+
+    .home-page-design .caratteristiche {
+        padding : 0
     }
 
 }
