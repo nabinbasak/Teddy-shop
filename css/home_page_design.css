@@ -1,0 +1,3026 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.home-page-design .hai-bisogno-di-aiuto {
+  margin-right: 9px;
+  width: 161px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.2;
+  color: rgba(0, 0, 0, 0.82);
+}
+.home-page-design .ottieni-subito-uno-sconto-del-10-iscriviti-alla-newsletter {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.82);
+}
+.home-page-design .informazioni-di-consegna {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.82);
+}
+.home-page-design .offerte-speciali {
+  background: #F0DACD;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 71.2px 11px 66.8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-page-design .teddy-shop-1 {
+  /* margin-right: 50px; */
+  /* width: 73px; */
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-style: italic;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 0.83;
+  text-transform: capitalize;
+  color: #29180F;
+  margin-top: 12px;
+}
+.home-page-design .home {
+ /*position: absolute;
+  left: -95px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;*/
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .categorie {
+  margin-right: 6.6px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .vector-48 {
+  width: 12.6px;
+  height: 7.1px;
+}
+.home-page-design .chevron-down {
+  margin: 10.2px 0 9.7px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home-page-design .nav-link-dropdown {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home-page-design .novit-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .marchi {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .carte-regalo {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .chi-siamo-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 583.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-10 {
+  position: relative;
+  display: flex;
+  width: 693px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .search {
+  margin-right: 19px;
+  width: 24px;
+  height: 24px;
+}
+.home-page-design .user {
+  margin-right: 20.5px;
+  width: 24px;
+  height: 24px;
+}
+.home-page-design .vector-53 {
+  width: 20.9px;
+  height: 18.2px;
+}
+.home-page-design .heart {
+  margin: 3px 20.5px 2.8px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home-page-design .shopping-bag {
+  width: 24px;
+  height: 24px;
+}
+.home-page-design .column-11 {
+  margin: 2px 0 1px 55px;
+  display: flex;
+  flex-direction: row;
+  width: 161px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-9 {
+  background: #FFFFFF;
+  margin: 1px 0 59px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 0 7px 0;
+  width: 676px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .button-9 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+.home-page-design .button-5 {
+  /*border-radius: 71px;
+  background: #89D3D1;
+  margin: 4px 0 63px 0;
+  display: flex;
+  padding: 4.5px 13px 4.5px 14px;
+  box-sizing: border-box;*/
+    border-radius: 40px;
+    background: #89D3D1;
+    margin: 6px 0 63px 0;
+    display: flex;
+    padding: 4.5px 13px 4.5px 14px;
+    box-sizing: border-box;
+    width: 131px;
+    height: 33px;
+}
+.home-page-design .container-1 {
+  position: absolute;
+  left: 107.9px;
+  right: 64px;
+  /* bottom: -32px; */
+  top : 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.home-page-design .rectangle-22 {
+  border-radius: 77px;
+  border: 3px solid #C9B079;
+  background: #F7F2EC;
+  width: 440px;
+  height: 67px;
+}
+.home-page-design .hero-section {
+  position: absolute;
+  left: 173px;
+  bottom: -85px;
+  display: flex;
+  width: 100%;
+  height: 628px;
+  box-sizing: border-box;
+}
+.home-page-design .progetto-senza-titolo-2612 {
+  background-image: url('../assets/images/progetto_senza_titolo_261.png');
+  width: 48px;
+  height: 57px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.home-page-design .menu {
+  box-shadow: 0px 0px 85px 0px rgba(0, 0, 0, 0.08);
+  background: var(--white, #FFFFFF);
+  position: relative;
+  /* margin-right: 1px; */
+  /* padding: 17px 64px 19px 64px; */
+  width: 100%;
+  height: 93px;
+  box-sizing: border-box;
+}
+.home-page-design .peluche-per-bambini-4-xeliminate-parti-2 {
+  background: url('../assets/images/peluche_per_bambini_4_xeliminate_parti_2.png');
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+  /* background-position: center;  Center the image */
+  /* background-repeat: no-repeat;  Do not repeat the image */
+  /* background-size: cover;  Resize the background image to cover the entire container */
+  background-position: 49% 23%;
+  background-size: 143% 407%;
+}
+.home-page-design .rectangle-21 {
+  box-shadow: 0px 4px 56px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 0 0 60px 60px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  position: relative;
+  width: 467px;
+  height: 89px;
+}
+.home-page-design .rectangle-22 {
+  box-shadow: 0px 4px 56px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 0 0 60px 60px;
+  border: 3px solid #BAA370;
+  background: #BF8B70;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 574px;
+  height: 89px;
+}
+
+.home-page-design .rectangle-21.text ,
+.home-page-design .rectangle-22.text {
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: start;
+  padding: 28px;
+  font-size: 24px;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+}
+
+
+.ecco-lofferta-gund-40-di-sconto-dal-20-aprile-al-5-maggio {
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.home-page-design .ecco-lofferta-gund-40-di-sconto-dal-20-aprile-al-5-maggio {
+  position: absolute;
+  right: 29.9px;
+  bottom: 23px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #000000;
+}
+.ecco-lofferta-gund-40-di-sconto-dal-20-aprile-al-5-maggio-sub18 {
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.ecco-lofferta-gund-40-di-sconto-dal-20-aprile-al-5-maggio-sub17 {
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+  text-transform: capitalize;
+  color: #3A2215;
+}
+.home-page-design .container-42 {
+  position: absolute;
+  left: 220px;
+  /* top: -12px; */
+  top : 0;
+  width: 920px;
+  height: 89px;
+  box-sizing: border-box;
+}
+.home-page-design .hero-section-1 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 1px;
+  width: 100%;
+  height: 628px;
+}
+.home-page-design .esplora-etrova-il-tuo-preferito-su-teddy-shop {
+  margin: 0 62.5px 10px 67.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #29180F;
+  text-align: center;
+}
+.home-page-design .sub-title {
+  margin: 0 0 53px 5px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.505;
+  color: rgba(0, 0, 0, 0.9);
+  padding: 0 300px 0 300px;
+}
+.home-page-design .peluche-per-bambini-4-xeliminate-parti-22 {
+  border-radius: 28px 28px 0 0;
+  background: url('../assets/images/peluche_per_bambini_4_xeliminate_parti_2.png');
+  margin-bottom: 20px;
+  /* width: 390px; */
+  width: 100%;
+  height: 351px;
+  /* background-position: center; Center the image */
+  /* background-repeat: no-repeat; Do not repeat the image */
+  /* background-size: cover; Resize the background image to cover the entire container */
+  background-position: 24% 71%;
+  background-size: 485% 637%;
+}
+.home-page-design .fantasy-friends {
+  margin: 0 2px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .collezione-di-peluche-mitici-efantastici-perfetti-per-sognare-ad-occhi-aperti {
+  margin: 0 32.5px 0 30.5px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .collezione-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 28px;
+  border: 3px solid #FFFFFF;
+  background: #FFFFFF;
+  position: relative;
+  margin: 4px 67px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 26px;
+  box-sizing: border-box;
+  width: 33.33%;
+}
+.home-page-design .peluche-per-bambini-4-xeliminate-parti-21 {
+  border-radius: 29px 29px 0 0;
+  background: url('../assets/images/peluche_per_bambini_4_xeliminate_parti_2.png');
+  margin-bottom: 20px;
+  /* width: 390px; */
+  width: 100%;
+  height: 355px;
+  background-position: 52.5% 71%;
+  background-size: 485% 637%;
+}
+.home-page-design .vintage-treasures {
+  margin: 0 0 11px 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .collezione-retr-peluche-tradizionali-estorici-per-un-tocco-di-nostalgia {
+  margin-left: 3px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .collezione-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 28px;
+  border: 3px solid #FFFFFF;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 65px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 26px;
+  /* width: 437px; */
+  width: 33.33%;
+  box-sizing: border-box;
+}
+.home-page-design .peluche-per-bambini-4-xeliminate-parti-23 {
+  border-radius: 25px;
+  background: url('../assets/images/peluche_per_bambini_4_xeliminate_parti_2.png');
+  margin-bottom: 20px;
+  /* width: 347px; */
+  width: 100%;
+  height: 354px;
+  background-position: 80.5% 71%;
+    background-size: 527% 506%;
+}
+.home-page-design .wild-adventures {
+  margin: 0 1px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .in-questa-collezione-troverai-peluche-di-animali-esotici-per-tutti-tipi-di-avventure {
+  margin: 0 7.7px 0 15.7px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .container-25 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home-page-design .peluche-per-bambini-4-xeliminate-parti-4 {
+  border-radius: 28px 28px 0 0;
+  /* background: url('../assets/images/peluche_per_bambini_4_xeliminate_parti_2.png'); */
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 56px;
+  height: 354px;
+}
+.home-page-design .peluche-per-bambini-4-xeliminate-parti-24 {
+  border-radius: 28px 28px 0 28px;
+  /* background: url('../assets/images/peluche_per_bambini_4_xeliminate_parti_2.png'); */
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 75px;
+  height: 354px;
+}
+.home-page-design .collezione-3 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 28px;
+  border: 3px solid #FFFFFF;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  /* padding: 0 16px 2px 27px; */
+  box-sizing: border-box;
+  width: 33.33%;
+}
+.home-page-design .container-6 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .collezioni {
+  background: #F7F2EC;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 63px 71px 96px 67px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .progetto-senza-titolo-211 {
+  background: url('../assets/images/progetto_senza_titolo_211.png') 50% / cover no-repeat ;
+ /* margin-right: 1px;
+  width: 100%;
+  height: 238px;*/
+  position: relative;
+  margin-right: 18px;
+  align-self: center;
+  /* width: 236px; */
+  width: 100%;
+  height: 236px;
+}
+.home-page-design .teddy-105-orso {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .vector-57 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-58 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-59 {
+  margin-right: 3px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-60 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-61 {
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .container-38 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: row;
+  width: 90px;
+  box-sizing: border-box;
+}
+.home-page-design .container-4 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .container-37 {
+  border-radius: 0 0 35px 35px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 0 19px 0;
+  width: 296px;
+  box-sizing: border-box;
+}
+.home-page-design .teddy {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 37px;
+  border: 3px solid #FFFFFF;
+  background: #F7F2EC;
+  position: relative;
+  margin: 1px 32px 30px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18px 3px 3px 3px;
+  width: 329px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .progetto-senza-titolo-181 {
+  background: url('../assets/images/progetto_senza_titolo_181.png') 50% / cover no-repeat ;
+  /*margin: 0 22px 13px 22px;
+  width: 100%;
+  height: 225px;*/
+
+  position: relative;
+  margin-right: 18px;
+  align-self: center;
+  /* width: 236px; */
+  width: 100%;
+  height: 236px;
+}
+.home-page-design .trixy-85-tricerapoto {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .vector-62 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-63 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-64 {
+  margin-right: 3px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-65 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-66 {
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .container-3 {
+  margin: 0 1px 7px 0;
+  display: flex;
+  flex-direction: row;
+  width: 90px;
+  box-sizing: border-box;
+}
+.home-page-design .container-5 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .container-11 {
+  border-radius: 0 0 35px 35px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 0 19px 0;
+  width: 296px;
+  box-sizing: border-box;
+}
+.home-page-design .trixy {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 37px;
+  border: 3px solid #FFFFFF;
+  background: #F7F2EC;
+  position: relative;
+  margin: 1px 32px 30px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 18px 3px 3px 3px;
+  width: 318px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .progetto-senza-titolo-141 {
+  background: url('../assets/images/progetto_senza_titolo_141.png') 50% / cover no-repeat;
+  /*margin: 0 22px 13px 22px;
+  width: 100%;
+  height: 208px;*/
+  position: relative;
+  margin-right: 18px;
+  align-self: center;
+  /* width: 236px; */
+  width: 100%;
+  height: 236px;
+}
+.home-page-design .bunny-105-coniglio {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .vector-67 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-68 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-69 {
+  margin-right: 3px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-70 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-71 {
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .container-34 {
+  margin: 0 1px 7px 0;
+  display: flex;
+  flex-direction: row;
+  width: 90px;
+  box-sizing: border-box;
+}
+.home-page-design .container-6 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .container-9 {
+  border-radius: 0 0 35px 35px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 0 19px 0;
+  width: 296px;
+  box-sizing: border-box;
+}
+.home-page-design .bunny {
+  /*box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 37px;
+  border: 3px solid #FFFFFF;
+  background: #F7F2EC;
+  position: relative;
+  margin: 1px 12px 30px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 35px 3px 3px 3px;
+  width: 338px;
+  height: fit-content;
+  box-sizing: border-box;*/
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 21px 0 34px 23px;
+  width: 355px;
+  box-sizing: border-box;
+
+}
+.home-page-design .placeholder-image-9 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 37px;
+  border: 3px solid #FFFFFF;
+  background: #F7F2EC;
+  position: absolute;
+  left: 20px;
+  top: -2px;
+  width: 302px;
+  height: 375px;
+}
+.home-page-design .progetto-senza-titolo-161 {
+  background: url('../assets/images/progetto_senza_titolo_161.png') 50% / cover no-repeat;
+  position: relative;
+  margin-right: 18px;
+  align-self: center;
+  /* width: 236px; */
+  width: 100%;
+  height: 236px;
+}
+.home-page-design .gigi-125-giraffa {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .vector-72 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-73 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-74 {
+  margin-right: 3px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-75 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-76 {
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .container-44 {
+  margin: 0 1px 7px 0;
+  display: flex;
+  flex-direction: row;
+  width: 90px;
+  box-sizing: border-box;
+}
+.home-page-design .container-7 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .container-12 {
+  border-radius: 0 0 35px 35px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  padding: 10px 0 21px 0;
+  width: 296px;
+  box-sizing: border-box;
+}
+.home-page-design .gigi {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 21px 0 34px 23px;
+  width: 355px;
+  box-sizing: border-box;
+}
+.home-page-design .container-29 {
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-page-design .button-10 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.home-page-design .button-6 {
+  box-shadow: 0px 4px 0px 0px rgba(0, 0, 0, 0.35);
+  border-radius: 29px;
+  border: 2px solid #FFFFFF;
+  background: #BF8B70;
+  margin-right: 34px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  padding: 10.5px 0 10.5px 4.4px;
+  width: 237px;
+  box-sizing: border-box;
+}
+.home-page-design .prinicpali-prodotti {
+  background: #F7F2EC;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 108px 35px 71px 68px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .peluche-principali {
+  background: #F7F2EC;
+  margin-left: 1px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-page-design .container-23 {
+  /* margin: 24.7px 12.9px 2.3px 0; */
+  margin-right: 10px;
+  width: 50px;
+  height: 60px;
+}
+.home-page-design .ecco-cosa-possiamo-fare-per-te {
+  /* margin-right: 23.8px; */
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .container-17 {
+  /*margin: 24.7px 0 2.3px 0;
+  width: 26.2px;
+  height: 30.9px;*/
+  margin-left: 10px;
+  width: 50px;
+  height: 60px;
+}
+.home-page-design .container-47 {
+  margin: 0 0 50px 10.9px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+  justify-content: center;
+}
+.home-page-design .vector-77 {
+  width: 42px;
+  height: 27.6px;
+}
+.home-page-design .progetto-senza-titolo-31 {
+  background: #FFFFFF;
+  position: absolute;
+  left: -5.5px;
+  bottom: 4.4px;
+  display: flex;
+  padding: 7.7px 12.1px 7.7px 9.9px;
+  width: 64px;
+  height: 43.1px;
+  box-sizing: border-box;
+}
+.home-page-design .icon-relume {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 33px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 6px;
+  width: 53px;
+  height: 53px;
+}
+.home-page-design .spedizioni-sicure {
+  margin: 0 1px 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.4;
+  color: #29180F;
+}
+.home-page-design .offriamo-consegne-rapide-per-garantirti-che-il-tuo-peluche-arrivi-adestinazione-in-perfette-condizioni {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .section-title-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-12 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 31px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 26.7px 20px 27.7px;
+  box-sizing: border-box;
+}
+.home-page-design .vector-2 {
+  width: 33px;
+  height: 40px;
+}
+.home-page-design .progetto-senza-titolo-311 {
+  background: #FFFFFF;
+  position: absolute;
+  left: -5.5px;
+  bottom: 4.4px;
+  display: flex;
+  padding: 1.5px 15.5px 1.6px 15.5px;
+  width: 64px;
+  height: 43.1px;
+  box-sizing: border-box;
+}
+.home-page-design .icon-relume-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 33px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 6px 1px;
+  width: 53px;
+  height: 53px;
+}
+.home-page-design .materiali-di-qualit {
+  margin-bottom: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.4;
+  color: #29180F;
+}
+.home-page-design .siamo-impegnati-autilizzare-materiali-di-qualit-per-inostri-peluche-per-garantirti-un-prodotto-che-durer-nel-tempo {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .section-title-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-13 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 31px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 15.4px 20px 15.4px;
+  box-sizing: border-box;
+}
+.home-page-design .progetto-senza-titolo-51 {
+  position: absolute;
+  left: 3.5px;
+  top: -0.5px;
+  width: 56px;
+  height: 42px;
+}
+.home-page-design .progetto-senza-titolo-312 {
+  background: #FFFFFF;
+  position: absolute;
+  left: -5.5px;
+  bottom: 4.4px;
+  width: 64px;
+  height: 43.1px;
+}
+.home-page-design .icon-relume-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 33px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 6px;
+  width: 53px;
+  height: 53px;
+}
+.home-page-design .servizio-eccellente {
+  margin: 0 1px 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.4;
+  color: #29180F;
+}
+.home-page-design .la-nostra-assistenza-clienti-atua-disposizione-per-rispondere-atutte-le-tue-domande-erisolvere-qualsiasi-problema {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .section-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-14 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 31px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 0 20px 0;
+  width: 378px;
+  box-sizing: border-box;
+}
+.home-page-design .row-1 {
+  margin-bottom: 44px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 48px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .dot {
+  border-radius: 4px;
+  background: #3A2215;
+  width: 8px;
+  height: 8px;
+}
+.home-page-design .dot-1 {
+  border-radius: 4px;
+  background: #FFFFFF;
+  width: 8px;
+  height: 8px;
+}
+.home-page-design .dot-2 {
+  border-radius: 4px;
+  background: #FFFFFF;
+  width: 8px;
+  height: 8px;
+}
+.home-page-design .dot-3 {
+  border-radius: 4px;
+  background: #FFFFFF;
+  width: 8px;
+  height: 8px;
+}
+.home-page-design .dot-4 {
+  border-radius: 4px;
+  background: #FFFFFF;
+  width: 8px;
+  height: 8px;
+}
+.home-page-design .slider-dots {
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  width: 72px;
+  box-sizing: border-box;
+}
+.home-page-design .caratteristiche {
+  background: #E1EDE9;
+  margin: 0 0 49px 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 63px 105px 22px 105px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-page-design .progetto-senza-titolo-221 {
+  background: url('../assets/images/progetto_senza_titolo_221.png');
+  /*margin: 0 19px 28px 25px;
+  width: 252px;
+  height: 205px;*/
+  position: relative;
+  /* margin-right: 18px; */
+  align-self: center;
+  width: 100%;
+  height: 236px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.home-page-design .aria-115-farfalla {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .vector-23 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-24 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-25 {
+  margin-right: 3px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-26 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-27 {
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .container-8 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: row;
+  width: 90px;
+  box-sizing: border-box;
+}
+.home-page-design .container {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #3A2215;
+}
+.home-page-design .container-26 {
+  border-radius: 0 0 35px 35px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 0 20px 0;
+  width: 296px;
+  box-sizing: border-box;
+}
+.home-page-design .container-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 37px;
+  border: 3px solid #FFFFFF;
+  background: #F7F2EC;
+  position: relative;
+  margin-top: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 3px 2px 3px;
+  width: 302px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .progetto-senza-titolo-171 {
+  background: url('../assets/images/progetto_senza_titolo_171.png');
+  /*margin-bottom: 11px;
+  width: 302px;
+  height: 191px;*/
+  position: relative;
+  /* margin-right: 18px; */
+  align-self: center;
+  width: 100%;
+  height: 236px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.home-page-design .blaze-135-drago {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .vector-29 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-30 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-31 {
+  margin-right: 3px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-32 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-28 {
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .container-50 {
+  margin: 0 1px 7px 0;
+  display: flex;
+  flex-direction: row;
+  width: 90px;
+  box-sizing: border-box;
+}
+.home-page-design .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #3A2215;
+}
+.home-page-design .container-39 {
+  border-radius: 0 0 35px 35px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 0 20px 0;
+  width: 296px;
+  box-sizing: border-box;
+}
+.home-page-design .container-49 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 37px;
+  border: 3px solid #FFFFFF;
+  background: #F7F2EC;
+  position: relative;
+  margin-top: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 55px 0 2px 0;
+  width: 302px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .progetto-senza-titolo-201 {
+  background: url('../assets/images/progetto_senza_titolo_201.png');
+ /*margin: 0 0 13px 17px;
+  width: 203px;
+  height: 231px;*/
+  position: relative;
+  /* margin-right: 18px; */
+  align-self: center;
+  width: 100%;
+  height: 236px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.home-page-design .clover-105-lepre {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .vector-33 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-34 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-35 {
+  margin-right: 3px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-36 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-37 {
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .container-5 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: row;
+  width: 90px;
+  box-sizing: border-box;
+}
+.home-page-design .container-2 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #3A2215;
+}
+.home-page-design .container-20 {
+  border-radius: 0 0 35px 35px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 0 20px 0;
+  width: 296px;
+  box-sizing: border-box;
+}
+.home-page-design .container-13 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 37px;
+  border: 3px solid #FFFFFF;
+  background: #F7F2EC;
+  position: relative;
+  margin-top: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 3px 2px 3px;
+  width: 302px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .progetto-senza-titolo-191 {
+  background: url('../assets/images/progetto_senza_titolo_191.png');
+ /* margin: 0 27px 1px 27px;
+  align-self: flex-start;
+  width: 227px;
+  height: 235px;*/
+  position: relative;
+  /* margin-right: 18px; */
+  align-self: center;
+  width: 100%;
+  height: 236px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.home-page-design .jumbo-105-elefante {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .vector-38 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-39 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-40 {
+  margin-right: 3px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-41 {
+  margin-right: 4px;
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .vector-42 {
+  width: 15px;
+  height: 14px;
+}
+.home-page-design .container-40 {
+  margin: 0 1px 7px 0;
+  display: flex;
+  flex-direction: row;
+  width: 90px;
+  box-sizing: border-box;
+}
+.home-page-design .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #3A2215;
+}
+.home-page-design .container-28 {
+  border-radius: 0 0 35px 35px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 9px 0 19px 0;
+  width: 296px;
+  box-sizing: border-box;
+}
+.home-page-design .container-53 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 37px;
+  border: 3px solid #FFFFFF;
+  background: #F7F2EC;
+  position: relative;
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 3px 3px 3px;
+  width: 302px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .container-32 {
+  margin-bottom: 65px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 32px;
+  width: 100%;
+  box-sizing: border-box;
+  justify-content: space-evenly;
+}
+.home-page-design .button-7 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.home-page-design .button {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 29px;
+  border: 2px solid #FFFFFF;
+  background: #BF8B70;
+  margin-right: 1px;
+  display: flex;
+  justify-content: center;
+  padding: 10.5px 0 10.5px 4.4px;
+  width: 237px;
+  box-sizing: border-box;
+}
+.home-page-design .altri-peluche {
+  background: #F7F2EC;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 95px 68px 68px 68px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-page-design .vector-43 {
+  position: absolute;
+  left: 117px;
+  top: 52px;
+  width: 62px;
+  height: 54px;
+}
+.home-page-design .aggiungi-un-tocco-speciale-al-tuo-peluche {
+  position: relative;
+  /* margin: 0 75.3px 6px 75.3px; */
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .image-9 {
+  border-radius: 40px 39px 0 0;
+  background: url('../assets/images/image_9.png');
+  /* width: 640px; */
+  width: 100%;
+  /* height: 338px; */
+}
+.home-page-design .image {
+  margin-bottom: 40px;
+  display: flex;
+  /* width: 635px; */
+  width: 100%;
+  height: 360px;
+  box-sizing: border-box;
+}
+.home-page-design .regala-un-sorriso-con-la-nostra-gift-card {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 1.2;
+  color: #29180F;
+}
+.home-page-design .headline {
+  margin: 0 29.1px 19px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .vuoi-fare-un-regalo-ma-non-sai-cosa-scegliere-la-nostra-gift-card-la-soluzione-perfetta-con-essa-il-destinatario-potr-scegliere-il-peluche-che-preferisce-tra-la-nostra-vasta-selezione-scegli-limporto-personalizza-il-biglietto-dauguri-erendi-felice-chi-ami {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .content-top {
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .scopri-di-pi {
+  margin-right: 15.2px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .vector-45 {
+  width: 12.6px;
+  height: 7.1px;
+}
+.home-page-design .icon-chevron-right-1 {
+  margin: 5.2px 0 6.2px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home-page-design .actions {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .content {
+  margin: 0 60px 0 48px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .card {
+  box-shadow: 0px 4px 22px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 42px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  margin: 0 32px 2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 49px;
+  box-sizing: border-box;
+}
+.home-page-design .image-7 {
+  border-radius: 15px 0 0 15px;
+  background: url('../assets/images/image_7.png');
+  width: 320px;
+  height: 338px;
+}
+.home-page-design .image-1 {
+  border-radius: 15px 0 0 15px;
+  background: #C4C4C4;
+  position: relative;
+  margin-right: 24px;
+  display: flex;
+  width: 320px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .le-offerte-speciali-della-settimana {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.395;
+  color: #29180F;
+}
+.home-page-design .headline-1 {
+  margin-bottom: 8px;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .dai-unocchiata-alle-nostre-offerte-speciali-troverai-sconti-imperdibili-su-alcuni-dei-nostri-peluche-pi-popolari-ma-affrettati-le-offerte-sono-per-tempo-limitato {
+  margin-right: 5.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .content-top-1 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .button-3 {
+  margin-right: 15.2px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .vector-46 {
+  /*width: 12.6px;
+  height: 7.1px;*/
+  width: 30.6px;
+  height: 18.1px;
+}
+.home-page-design .icon-chevron-right-2 {
+  margin: 5.2px 0 6.2px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home-page-design .actions-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .content-1 {
+  margin: 40px 0 44px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page-design .card-1 {
+  box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  border: 3px solid #C9B079;
+  background: #E1EDE9;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  padding-right: 47.9px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-page-design .image-12 {
+  border-radius: 19px 0 0 18px;
+  background: url('../assets/images/image_12.png');
+  width: 320px;
+  /* height: 321px; */
+}
+.home-page-design .image-2 {
+  border-radius: 19px 0 0 18px;
+  background: #C4C4C4;
+  position: relative;
+  margin-right: 24px;
+  display: flex;
+  width: 320px;
+  height: 368px;
+  box-sizing: border-box;
+}
+.home-page-design .personalizza-il-tuo-peluche-con-noi {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.395;
+  color: #29180F;
+}
+.home-page-design .vuoi-rendere-il-tuo-peluche-ancora-pi-speciale-personalizzalo-con-il-nome-ola-data-offriamo-un-servizio-di-personalizzazione-per-molti-dei-nostri-peluche-rendendoli-unici-eindimenticabili {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .button-2 {
+  margin-right: 15.2px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .vector-44 {
+  width: 12.6px;
+  height: 7.1px;
+}
+.home-page-design .icon-chevron-right {
+  margin: 5.2px 0 6.2px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.home-page-design .button-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .content-2 {
+  border-radius: 15px;
+  margin: 36px 0 31px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page-design .card-2 {
+  box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 19px;
+  border: 3px solid #C9B079;
+  background: #F0DACD;
+  display: flex;
+  flex-direction: row;
+  padding-right: 32px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column {
+  margin-top: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home-page-design .container-s {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-page-design .novit {
+  background: #F7F2EC;
+  position: relative;
+  margin: 0 1px 105px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 47px 64px 117px 64px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-page-design .questo-peluche-fantastico-la-qualit-del-materiale-eccezionale-ela-sua-morbidezza-lo-rende-perfetto-per-abbracciare {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .m {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.5;
+  color: #28180F;
+}
+.home-page-design .container-21 {
+  /* border-radius: 28px; */
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  padding: 1px 9.6px 1px 11px;
+  box-sizing: border-box;
+  border-radius:50%;
+  border: 1px solid #C9B079;
+}
+.home-page-design .maria-cipollari {
+  margin-right: 10.4px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .casalinga-mamma {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .avatar-content {
+  margin: 5.5px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home-page-design .avatar {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 23px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 0 17px 29px;
+  width: 415px;
+  box-sizing: border-box;
+}
+.home-page-design .non-sono-soddisfatto-di-questo-peluche-il-materiale-sembra-economico-ela-cucitura-piuttosto-approssimativa {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .c {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.5;
+  color: #28180F;
+}
+.home-page-design .container-7a {
+  /* border-radius: 28px; */
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  padding: 2px 14px 0 15px;
+  box-sizing: border-box;
+  border-radius:50%;
+  border: 1px solid #C9B079;
+}
+.home-page-design .claudio-boldi {
+  margin-right: 11.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .operaio-genitore {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .avatar-content-2 {
+  margin: 5.5px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home-page-design .avatar-2 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-3 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 23px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 0 17px 29px;
+  width: 415px;
+  box-sizing: border-box;
+}
+.home-page-design .il-peluche-stesso-di-alta-qualit-con-dettagli-ben-curati-euna-consistenza-morbida-esoffice-consiglio-vivamente-questo-negozio {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .j {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.5;
+  color: #28180F;
+}
+.home-page-design .container-14 {
+  /* border-radius: 28px; */
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  padding: 2px 16.3px 0 17px;
+  box-sizing: border-box;
+  border-radius:50%;
+  border: 1px solid #C9B079;
+}
+.home-page-design .jessica-merla {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .pensionata-nonna {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .avatar-content-1 {
+  margin: 5.5px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page-design .avatar-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 23px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 0 17px 29px;
+  width: 415px;
+  box-sizing: border-box;
+}
+.home-page-design .container-43 {
+  margin-bottom: 58px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 32px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .dot-5 {
+  border-radius: 4px;
+  background: #3A2215;
+  width: 8px;
+  height: 8px;
+}
+.home-page-design .dot-6 {
+  border-radius: 4px;
+  background: #FFFFFF;
+  width: 8px;
+  height: 8px;
+}
+.home-page-design .dot-7 {
+  border-radius: 4px;
+  background: #FFFFFF;
+  width: 8px;
+  height: 8px;
+}
+.home-page-design .dot-8 {
+  border-radius: 4px;
+  background: #FFFFFF;
+  width: 8px;
+  height: 8px;
+}
+.home-page-design .dot-9 {
+  border-radius: 4px;
+  background: #FFFFFF;
+  width: 8px;
+  height: 8px;
+}
+.home-page-design .slider-dots-1 {
+  margin-left: 3px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  width: 72px;
+  box-sizing: border-box;
+}
+.home-page-design .recensioni {
+  margin: 0 67px 48px 65px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-page-design .teddy-shop-newsletter {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .resta-aggiornato-sulle-ultime-novit-promozioni-eofferte-speciali {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .content-3 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page-design .placeholder {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--neutral-dark-gray, #505050);
+}
+.home-page-design .text-input {
+  border: 1px solid var(--black, #000000);
+  background: var(--white, #FFFFFF);
+  margin-right: 16px;
+  padding: 12px;
+  width: 221px;
+  box-sizing: border-box;
+}
+.home-page-design .button-8 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.home-page-design .button-4 {
+  border: 1px solid var(--black, #000000);
+  background: #BF8B70;
+  display: flex;
+  padding: 12px 0 12px 1.3px;
+  width: 163px;
+  box-sizing: border-box;
+}
+.home-page-design .form {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .iscrivendoti-accetti-la-nostra-privacy-policy {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration-line: underline;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .actions-2 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page-design .newsletter {
+  margin: 0 69px 48px 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* width: 1312px; */
+  box-sizing: border-box;
+}
+.home-page-design .divider {
+  background: #C9B079;
+  margin: 0 69px 66px 60px;
+  /* width: 1312px; */
+  height: 6px;
+}
+.home-page-design .per-aiutare {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  /* font-weight: 500; */
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .consegna {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link {
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .ritorno {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-1 {
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .domande-frequenti {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-2 {
+  margin-bottom: 16px;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .pagamento-sicuro {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-3 {
+  margin: 0 11.7px 16px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .privacy-esicurezza {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-4 {
+  margin-right: 3.9px;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .footer-links {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-4 {
+  margin-right: 140.1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page-design .chi-siamo {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .la-nostra-storia {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-5 {
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .sicurezza-eidonet {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-6 {
+  margin-bottom: 16px;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .generali-tc {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-7 {
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .commercio-equo {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-8 {
+  margin: 0 16px 16px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .mappa-del-sito {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-9 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .footer-links-1 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-5 {
+  margin-right: 141.6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page-design .commercio {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .rivenditori-esterni {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-10 {
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .diventa-un-rivenditoore {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-11 {
+  margin-bottom: 16px;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .fiere-econvegni {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-12 {
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .termini-econdizioni {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-13 {
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .pubbliche-relazioni {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-14 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .footer-links-2 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-6 {
+  margin-right: 108.7px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page-design .supporto {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .il-mio-conto {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-15 {
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .contattaci {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-16 {
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .spedizione {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-17 {
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .spedizione-estiva {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-18 {
+  margin-bottom: 16px;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .richiamare {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-19 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page-design .footer-links-3 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-7 {
+  margin-right: 153.9px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page-design .social {
+  margin: 0 15.7px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #29180F;
+}
+.home-page-design .instagram {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-20 {
+  margin-bottom: 16px;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .facebook {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-21 {
+  margin: 0 3.9px 16px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .twitter {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-22 {
+  margin: 0 19.4px 16px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .you-tube {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-23 {
+  margin: 0 5.9px 16px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .pinteres {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+.home-page-design .link-24 {
+  margin-right: 14px;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .footer-links-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .column-8 {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  box-sizing: border-box;
+}
+.home-page-design .links {
+  margin: 0 67px 55px 67px;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .teddy-shop {
+  margin-right: 50px;
+  width: 73px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-style: italic;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 0.83;
+  text-transform: capitalize;
+  color: #3A2215;
+}
+.home-page-design .teddy-shop-tutti-idiritti-riservati {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+.home-page-design .row {
+  margin: 4px 0 72px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-design .container-33 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .progetto-senza-titolo-2611 {
+  background: url('../assets/images/progetto_senza_titolo_261.png');
+  position: absolute;
+  left: 59px;
+  bottom: 23px;
+  width: 48px;
+  height: 57px;
+}
+.home-page-design .credits {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 37px 60.9px 30px 102.9px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-page-design .footer {
+  background: #F0DACD;
+  display: flex;
+  flex-direction: column;
+  padding-top: 39px;
+  /* width: fit-content; */
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-page-design .container-30 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-design .vector-47 {
+  /*margin-right: 3.4px;
+  width: 49px;
+  height: 43px;*/
+  width: 30.6px;
+  height: 18.1px;
+}
+.home-page-design .opinioni-dei-nostri-clienti {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #3A2215;
+}
+.home-page-design .titolo-opinioni {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 61px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  position: absolute;
+  right: 424px;
+  bottom: 1039px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 30.4px 12px 15px;
+  box-sizing: border-box;
+}
+.home-page-design .ipeluche-pi-ricercati {
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .container-16 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 77px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 12px 20.3px;
+  box-sizing: border-box;
+}
+.home-page-design .progetto-senza-titolo-261 {
+  background: url('../assets/images/progetto_senza_titolo_261.png');
+  position: absolute;
+  left: 26px;
+  bottom: 0px;
+  width: 60px;
+  height: 70px;
+}
+.home-page-design .ipeluche-pi-ricercati-1 {
+  position: absolute;
+  left: 50%;
+  bottom: 2670px;
+  translate: -50% 0;
+  padding: 1px 0 2px 0;
+  box-sizing: border-box;
+}
+.home-page-design .container-8 {
+  background: url('../assets/images/image.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 4px;
+  top: 2px;
+  width: 103px;
+  height: 58px;
+}
+.home-page-design .acquista-per-la-primavera {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .titolo-acquisti-per-la-primavera {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 62px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  position: absolute;
+  /* left: 50%; */
+  /* top: 1567px; */
+  display: flex;
+  justify-content: center;
+  padding: 10px 20.2px 14px 20.2px;
+  width: 633px;
+  box-sizing: border-box;
+}
+
+
+.home-page-design .acquista-per-la-recensioni {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Serif';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #29180F;
+}
+.home-page-design .titolo-acquisti-per-la-recensioni {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 62px;
+  border: 3px solid #C9B079;
+  background: #FFFFFF;
+  position: relative;
+  /* left: 50%; */
+  /* top: 1567px; */
+  bottom: 140px;
+  display: flex;
+  justify-content: center;
+  padding: 10px 20.2px 14px 20.2px;
+  width: 633px;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+.home-page-design {
+  border: 3px solid #FFFFFF;
+  background: #E1EDE9;
+  display: flex;
+  padding-bottom: 3px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+
+
+.home-page-design .teddy-shop-1 {
+  display: flex; /* Use flexbox to align items */
+  align-items: start; /* Center items vertically */
+  font-family: 'Roboto Serif';
+  font-style: italic;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 0.83;
+  text-transform: capitalize;
+  color: #29180F;
+  /* margin-top: 12px; */
+}
+
+.home-page-design .teddy-shop-1::before {
+  content: ''; /* Required for pseudo-elements */
+  background-image: url('../assets/images/progetto_senza_titolo_261.png');
+  width: 105px;
+  height: 40px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire pseudo-element */
+  /* margin-right: 10px;  Space between image and text */
+}
+
+.home-page-design .teddy-shop-1-text {
+  flex: 1; /* Take remaining space */
+  text-align: center; /* Center text horizontally */
+  overflow-wrap: break-word;
+}
+
+.w-25{
+  width: 25%;
+}
+
+.text-bold{
+  font-weight: bold;
+}
+
