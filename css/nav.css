@@ -202,6 +202,8 @@
         /* height: 67px; */
         border: 3px solid #BAA370;
         background: #BF8B70;
+        position: relative;
+        top: 4em;
     }
     
     .home-page-design .rectangle-21.text, .home-page-design .rectangle-22.text {
@@ -219,10 +221,10 @@
         border-radius: 0 0 60px 60px;
         border: 3px solid #C9B079;
         background: #FFFFFF;
-        position: absolute;
+        position: relative;
         width: 467px;
         height: 89px;
-        top: 314px;
+        top: 14em;
         /* bottom: 0; */
     }
     
@@ -377,6 +379,29 @@
 
     .home-page-design .caratteristiche {
         padding : 0
+    }
+
+    .cover-img{
+        height: auto;
+    }
+
+    .home-page-design .hero-section-1 {
+        height: 350px;
+    }
+
+    .home-page-design .peluche-per-bambini-4-xeliminate-parti-22 {
+        background-position: 24% 71%;
+        background-size: 520% 445%;
+    }
+
+    .home-page-design .peluche-per-bambini-4-xeliminate-parti-21 {
+        background-position: 52.5% 71%;
+        background-size: 381% 437%;
+    }
+
+    .home-page-design .peluche-per-bambini-4-xeliminate-parti-23 {
+        background-position: 83.5% 71%;
+        background-size: 413% 382%;
     }
 
 }
