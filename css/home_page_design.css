@@ -959,7 +959,7 @@
   flex-direction: column;
   align-items: center;
   padding: 108px 0 71px 0;
-  width: 100%;
+  /* width: 100%; */
   height: fit-content;
   box-sizing: border-box;
 }

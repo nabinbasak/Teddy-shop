@@ -288,8 +288,9 @@
     }
 
     .home-page-design .ecco-cosa-possiamo-fare-per-te {
-        font-size: 4vw;
+        font-size: 1.5em;
         text-align: center;
+        padding-top: 17px;
     }
 
     .home-page-design .container-32 {
@@ -310,6 +311,7 @@
 
     .home-page-design .titolo-acquisti-per-la-recensioni {
         width: 100%;
+        bottom: unset;
     }
 
     .home-page-design .acquista-per-la-recensioni {
@@ -403,6 +405,21 @@
         background-position: 83.5% 71%;
         background-size: 413% 382%;
     }
+
+    .home-page-design .novit {
+        padding: 10px;
+        margin: 0;
+    }
+
+    .home-page-design .card {
+        margin: 0;
+    }
+
+    .home-page-design .image-12,.home-page-design .image-7 {
+        width: 100%;
+    }
+
+    
 
 }
 
