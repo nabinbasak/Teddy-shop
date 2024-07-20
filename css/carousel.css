@@ -142,8 +142,69 @@
     cursor: pointer;
   }
   
-  .carousel-testimonials .dot.active {
+  .carousel-testimonials .dot-5.active,.carousel-testimonials .dot-6.active,.carousel-testimonials .dot-7.active {
     background-color: #555;
   }
+
+
+  /*  2nd  */
+
   
+  .carousel-t .carousel {
+    display: flex;
+    transition: transform 0.5s ease;
+  }
+  
+  .carousel-t .carousel-item-1,
+  .carousel-t .carousel-item-2,
+  .carousel-t .carousel-item-3 {
+    flex: 0 0 100%; /* Each item takes full width */
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  .carousel-t .prev-btn,
+  .carousel-t .next-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    font-size: 2rem;
+    color: #333;
+    cursor: pointer;
+  }
+  
+  .carousel-t .prev-btn {
+    left: 0;
+  }
+  
+  .carousel-t .next-btn {
+    right: 0;
+  }
+  
+  .carousel-t .carousel-dots {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .carousel-t .dot {
+    width: 12px;
+    height: 12px;
+    background-color: #bbb;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .carousel-t .dot-5.active,.carousel-t .dot-6.active,.carousel-t .dot-7.active {
+    background-color: #555;
+  }
   

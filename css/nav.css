@@ -444,12 +444,17 @@
         margin-right: unset;
     }
 
-    .home-page-design .carousel-container .row-1 {
+
+    .home-page-design .row-1 {
+        margin-bottom: 44px;
         display: unset;
-        flex-direction: unset;
-        column-gap: unset;
-        width: unset;
+        flex-direction: row;
+        column-gap: 48px;
+        width: fit-content;
+        box-sizing: border-box;
     }
+
+    
     
 
 }

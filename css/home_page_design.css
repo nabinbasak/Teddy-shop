@@ -1188,12 +1188,18 @@
   box-sizing: border-box;
 }
 .home-page-design .row-1 {
-  margin-bottom: 44px;
+  /*margin-bottom: 44px;
   display: flex;
   flex-direction: row;
   column-gap: 48px;
   width: fit-content;
-  box-sizing: border-box;
+  box-sizing: border-box;*/
+  margin-bottom: 44px;
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* column-gap: 48px; */
+    /* width: fit-content; */
+    box-sizing: border-box;
 }
 .home-page-design .dot {
   border-radius: 4px;
@@ -2179,7 +2185,8 @@
 }
 .home-page-design .dot-5 {
   border-radius: 4px;
-  background: #3A2215;
+  background: #FFFFFF;
+  /* background: #3A2215; */
   width: 8px;
   height: 8px;
 }
