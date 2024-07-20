@@ -176,7 +176,7 @@
         /* flex-direction: row; */
         justify-content: start;
         padding: 28px;
-        font-size: 20px;
+        font-size: 17px;
         font-family: 'Roboto Serif';
         font-weight: 500;
         width: 100%;
@@ -272,12 +272,13 @@
         display: flex;
         justify-content: center;
         padding: 10px 20.2px 14px 20.2px;
-        width: 100%;
+        width: 95%;
     }
 
     .home-page-design .acquista-per-la-primavera {
         font-size: 5vw;
         line-height: 2.2;
+        padding-left: 48px;
     }
 
     .home-page-design .container-29 {
@@ -298,8 +299,8 @@
         flex-direction: column;
         column-gap: 32px;
         width: 100%;
-        align-items: center;
-        align-content: center;
+        /* align-items: center; */
+        /* align-content: center; */
     }
 
     .home-page-design .container-s {
@@ -310,12 +311,13 @@
     }
 
     .home-page-design .titolo-acquisti-per-la-recensioni {
-        width: 100%;
+        width: 95%;
         bottom: unset;
     }
 
     .home-page-design .acquista-per-la-recensioni {
-        font-size: 25px;
+        font-size: 22px;
+        padding-left: 15px;
     }
 
     .home-page-design .newsletter,.home-page-design .links {
@@ -419,6 +421,35 @@
         width: 100%;
     }
 
+    .home-page-design .collezioni {
+        padding-left: 28px;
+        padding-right: 24px;
+    }
+
+    .home-page-design .container-47 {
+
+        margin-left: 0;
+        width: unset;
+    }
+
+    .home-page-design .bunny {
+        width: unset;
+    }
+
+    .home-page-design .altri-peluche {
+        padding: 95px 28px 68px 22px;
+    }
+
+    .home-page-design .container-23 {
+        margin-right: unset;
+    }
+
+    .home-page-design .carousel-container .row-1 {
+        display: unset;
+        flex-direction: unset;
+        column-gap: unset;
+        width: unset;
+    }
     
 
 }

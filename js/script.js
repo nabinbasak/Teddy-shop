@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", function () {
   
     let currentIndex = 0;
     const totalItems = carouselItems.length;
-    let itemWidth = carouselItems[0].clientWidth;
-  
+    let itemWidth = parseFloat(carouselItems[0].clientWidth);
+  console.log("itemWidth : "+itemWidth)
     // Function to move carousel to a specific index
     const moveTo = (index) => {
       if (index < 0) {
